@@ -24,6 +24,11 @@ namespace Attivita_4GIT
         {
             InitializeComponent();
 
+            
+        }
+
+        private void btn_Stampa_Click(object sender, RoutedEventArgs e)
+        {
             lblStampa.Content = "Hello world";
         }
     }

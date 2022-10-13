@@ -12,6 +12,7 @@
             <RowDefinition Height="169*"/>
         </Grid.RowDefinitions>
         <Label x:Name="lblStampa" Content="Label" HorizontalAlignment="Left" Margin="361,64,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Button x:Name="btn_Stampa" Content="Button" HorizontalAlignment="Left" Margin="359,149,0,0" Grid.Row="1" VerticalAlignment="Top" Click="btn_Stampa_Click"/>
 
     </Grid>
 </Window>
