@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attivita_4GIT", "Attivita_4GIT\Attivita_4GIT.csproj", "{DAEC8D97-BC1C-411F-9D6C-66CFEA408A65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAEC8D97-BC1C-411F-9D6C-66CFEA408A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAEC8D97-BC1C-411F-9D6C-66CFEA408A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAEC8D97-BC1C-411F-9D6C-66CFEA408A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAEC8D97-BC1C-411F-9D6C-66CFEA408A65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD410C9-631C-4FF4-AEB9-D346B546E58F}
+	EndGlobalSection
+EndGlobal
