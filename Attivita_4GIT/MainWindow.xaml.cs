@@ -26,7 +26,7 @@ namespace Attivita_4GIT
 
             
         }
-
+//button per la stampa :(
         private void btn_Stampa_Click(object sender, RoutedEventArgs e)
         {
             lblStampa.Content = "Hello world";
